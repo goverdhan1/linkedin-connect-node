@@ -1,0 +1,17 @@
+{
+  "name": "linkedin-connect-node",
+  "version": "1.0.0",
+  "description": "Automate LinkedIn connection requests using Node.js and Selenium",
+  "main": "linkedinConnect.js",
+  "scripts": {
+    "start": "node linkedinConnect.js",
+    "visible": "node linkedinConnect.js --visible"
+  },
+  "dependencies": {
+    "selenium-webdriver": "^4.15.0",
+    "dotenv": "^16.3.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

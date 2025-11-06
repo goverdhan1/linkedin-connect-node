@@ -1,0 +1,636 @@
+Error: EBUSY: resource busy or locked, open 'c:\Users\gover\linkedin-connect-node\logs.txt'
+    at Object.writeFileSync (node:fs:2425:20)
+    at Object.appendFileSync (node:fs:2507:6)
+    at log (c:\Users\gover\linkedin-connect-node\linkedinConnect.js:31:6)
+    at main (c:\Users\gover\linkedin-connect-node\linkedinConnect.js:165:5)
+    at Object.<anonymous> (c:\Users\gover\linkedin-connect-node\linkedinConnect.js:173:1)
+    at Module._compile (node:internal/modules/cjs/loader:1730:14)
+    at Object..js (node:internal/modules/cjs/loader:1895:10)
+    at Module.load (node:internal/modules/cjs/loader:1465:32)
+    at Function._load (node:internal/modules/cjs/loader:1282:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14) {
+  errno: -4082,
+  code: 'EBUSY',
+  syscall: 'open',
+  path: 'c:\\Users\\gover\\linkedin-connect-node\\logs.txt'
+}
+Error: EBUSY: resource busy or locked, open 'c:\Users\gover\linkedin-connect-node\logs.txt'
+    at Object.writeFileSync (node:fs:2425:20)
+    at Object.appendFileSync (node:fs:2507:6)
+    at log (c:\Users\gover\linkedin-connect-node\linkedinConnect.js:31:6)
+    at main (c:\Users\gover\linkedin-connect-node\linkedinConnect.js:165:5)
+    at Object.<anonymous> (c:\Users\gover\linkedin-connect-node\linkedinConnect.js:173:1)
+    at Module._compile (node:internal/modules/cjs/loader:1730:14)
+    at Object..js (node:internal/modules/cjs/loader:1895:10)
+    at Module.load (node:internal/modules/cjs/loader:1465:32)
+    at Function._load (node:internal/modules/cjs/loader:1282:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14) {
+  errno: -4082,
+  code: 'EBUSY',
+  syscall: 'open',
+  path: 'c:\\Users\\gover\\linkedin-connect-node\\logs.txt'
+}
+Error: EBUSY: resource busy or locked, open 'c:\Users\gover\linkedin-connect-node\logs.txt'
+    at Object.writeFileSync (node:fs:2425:20)
+    at Object.appendFileSync (node:fs:2507:6)
+    at log (c:\Users\gover\linkedin-connect-node\linkedinConnect.js:31:6)
+    at main (c:\Users\gover\linkedin-connect-node\linkedinConnect.js:165:5)
+    at Object.<anonymous> (c:\Users\gover\linkedin-connect-node\linkedinConnect.js:173:1)
+    at Module._compile (node:internal/modules/cjs/loader:1730:14)
+    at Object..js (node:internal/modules/cjs/loader:1895:10)
+    at Module.load (node:internal/modules/cjs/loader:1465:32)
+    at Function._load (node:internal/modules/cjs/loader:1282:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14) {
+  errno: -4082,
+  code: 'EBUSY',
+  syscall: 'open',
+  path: 'c:\\Users\\gover\\linkedin-connect-node\\logs.txt'
+}
+Log file locked, logging to console only: Starting batch from line 1 to 50
+Starting batch from line 1 to 50
+Log file locked, logging to console only: Starting LinkedIn login...
+Starting LinkedIn login...
+Log file locked, logging to console only: Login may require MFA. Please complete verification manually.
+Login may require MFA. Please complete verification manually.
+Log file locked, logging to console only: Error: Waiting for URL to contain "feed"
+Wait timed out after 300187ms
+Error: Waiting for URL to contain "feed"
+Wait timed out after 300187ms
+[2025-11-05 19:34:27] Starting batch from line 1 to 50
+[2025-11-05 19:34:30] Starting LinkedIn login...
+[2025-11-05 19:34:55] Login successful
+[2025-11-05 19:34:55] Cookies saved
+[2025-11-05 19:34:55] Processing: https://www.linkedin.com/in/brentchance
+[2025-11-05 19:35:02] Skipped: https://www.linkedin.com/in/brentchance (No Connect button found)
+[2025-11-05 19:35:04] Processing: https://www.linkedin.com/in/ACoAACWuGvsBlxXr6Asa6P4DhhbtUjHUtspQSAg
+[2025-11-05 19:35:09] Skipped: https://www.linkedin.com/in/ACoAACWuGvsBlxXr6Asa6P4DhhbtUjHUtspQSAg (No Connect button found)
+[2025-11-05 19:35:11] Processing: https://www.linkedin.com/in/prashantagrawal1
+[2025-11-05 19:35:13] Skipped: https://www.linkedin.com/in/prashantagrawal1 (No Connect button found)
+[2025-11-05 19:35:15] Processing: https://www.linkedin.com/in/ACoAAABeIYIBkpBt4QqYyIn7SmIZcPtTAWgI5I8
+[2025-11-05 19:35:20] Skipped: https://www.linkedin.com/in/ACoAAABeIYIBkpBt4QqYyIn7SmIZcPtTAWgI5I8 (No Connect button found)
+[2025-11-05 19:35:22] Processing: https://www.linkedin.com/in/theryanglick
+[2025-11-05 19:35:26] Skipped: https://www.linkedin.com/in/theryanglick (No Connect button found)
+[2025-11-05 19:35:28] Processing: https://www.linkedin.com/in/ryan-glick-344a1a293
+[2025-11-05 19:35:33] Skipped: https://www.linkedin.com/in/ryan-glick-344a1a293 (No Connect button found)
+[2025-11-05 19:35:35] Processing: https://www.linkedin.com/in/moussie-haile-pharmd-7511b448
+[2025-11-05 19:35:39] Skipped: https://www.linkedin.com/in/moussie-haile-pharmd-7511b448 (No Connect button found)
+[2025-11-05 19:35:41] Processing: https://www.linkedin.com/in/moussie-haile-94b148133
+[2025-11-05 19:35:46] Skipped: https://www.linkedin.com/in/moussie-haile-94b148133 (No Connect button found)
+[2025-11-05 19:35:48] Processing: https://www.linkedin.com/in/mindiknebel
+[2025-11-05 19:35:52] Skipped: https://www.linkedin.com/in/mindiknebel (No Connect button found)
+[2025-11-05 19:35:54] Processing: https://www.linkedin.com/in/ACoAAABEbkoBlZFSwLvxIvxM3dBqmTk6XfmhQHg
+[2025-11-05 19:35:59] Skipped: https://www.linkedin.com/in/ACoAAABEbkoBlZFSwLvxIvxM3dBqmTk6XfmhQHg (No Connect button found)
+[2025-11-05 19:36:01] Processing: https://www.linkedin.com/in/sterling-lanier-0175072
+[2025-11-05 19:36:05] Skipped: https://www.linkedin.com/in/sterling-lanier-0175072 (No Connect button found)
+[2025-11-05 19:36:07] Processing: https://www.linkedin.com/in/ACoAAABuS1MBQBsuoxpWK7yOuqy6KbmGOh-_CNo
+[2025-11-05 19:36:12] Skipped: https://www.linkedin.com/in/ACoAAABuS1MBQBsuoxpWK7yOuqy6KbmGOh-_CNo (No Connect button found)
+[2025-11-05 19:36:14] Processing: https://www.linkedin.com/in/eli-moshehai-806395111
+[2025-11-05 19:36:18] Skipped: https://www.linkedin.com/in/eli-moshehai-806395111 (No Connect button found)
+[2025-11-05 19:36:20] Processing: https://www.linkedin.com/in/yareli
+[2025-11-05 19:36:25] Skipped: https://www.linkedin.com/in/yareli (No Connect button found)
+[2025-11-05 19:36:27] Processing: https://www.linkedin.com/in/ACoAAABJEGsBCnz64PVukKsqvGVxs6x-zW194x4
+[2025-11-05 19:36:31] Skipped: https://www.linkedin.com/in/ACoAAABJEGsBCnz64PVukKsqvGVxs6x-zW194x4 (No Connect button found)
+[2025-11-05 19:36:33] Processing: https://www.linkedin.com/in/mohan-plakkot-6883253
+[2025-11-05 19:36:38] Skipped: https://www.linkedin.com/in/mohan-plakkot-6883253 (No Connect button found)
+[2025-11-05 19:36:40] Processing: https://www.linkedin.com/in/emily-wickard-a2100b334
+[2025-11-05 19:36:44] Skipped: https://www.linkedin.com/in/emily-wickard-a2100b334 (No Connect button found)
+[2025-11-05 19:36:46] Processing: https://www.linkedin.com/in/emily-shack-wickard-74a5667
+[2025-11-05 19:36:50] Skipped: https://www.linkedin.com/in/emily-shack-wickard-74a5667 (No Connect button found)
+[2025-11-05 19:36:53] Processing: https://www.linkedin.com/in/dfisch
+[2025-11-05 19:36:57] Skipped: https://www.linkedin.com/in/dfisch (No Connect button found)
+[2025-11-05 19:36:59] Processing: https://www.linkedin.com/in/ACoAAAABJ9UBpwTmfNEzaJpAheiW2C5u2s3oiD8
+[2025-11-05 19:37:04] Skipped: https://www.linkedin.com/in/ACoAAAABJ9UBpwTmfNEzaJpAheiW2C5u2s3oiD8 (No Connect button found)
+[2025-11-05 19:37:06] Processing: https://www.linkedin.com/in/joannariley
+[2025-11-05 19:37:11] Skipped: https://www.linkedin.com/in/joannariley (No Connect button found)
+[2025-11-05 19:37:13] Processing: https://www.linkedin.com/in/ACoAAAAAJCcBDIT08r6O6v_XZlT-jSG6SWJ961o
+[2025-11-05 19:37:18] Skipped: https://www.linkedin.com/in/ACoAAAAAJCcBDIT08r6O6v_XZlT-jSG6SWJ961o (No Connect button found)
+[2025-11-05 19:37:20] Processing: https://www.linkedin.com/in/eddie-prchal-0151ab57
+[2025-11-05 19:37:25] Skipped: https://www.linkedin.com/in/eddie-prchal-0151ab57 (No Connect button found)
+[2025-11-05 19:37:27] Processing: https://www.linkedin.com/in/anthonyrmiller
+[2025-11-05 19:37:31] Skipped: https://www.linkedin.com/in/anthonyrmiller (No Connect button found)
+[2025-11-05 19:37:33] Processing: https://www.linkedin.com/in/ACoAAABEzPgBISqVAGOUb0REJ1fMCYHGcIBvqgM
+[2025-11-05 19:42:33] Error processing https://www.linkedin.com/in/ACoAAABEzPgBISqVAGOUb0REJ1fMCYHGcIBvqgM: timeout: Timed out receiving message from renderer: -0.011
+  (Session info: chrome=141.0.7390.125)
+[2025-11-05 19:42:35] Processing: https://www.linkedin.com/in/jsprenkle
+Log file locked, logging to console only: Starting batch from line 1 to 50
+Starting batch from line 1 to 50
+Log file locked, logging to console only: Failed to load cookies
+Failed to load cookies
+Log file locked, logging to console only: Starting LinkedIn login...
+Starting LinkedIn login...
+Log file locked, logging to console only: Login may require MFA. Please complete verification manually.
+Login may require MFA. Please complete verification manually.
+Log file locked, logging to console only: Error: Waiting for URL to contain "feed"
+Wait timed out after 300100ms
+Error: Waiting for URL to contain "feed"
+Wait timed out after 300100ms
+Log file locked, logging to console only: Starting batch from line 1 to 50
+Starting batch from line 1 to 50
+Log file locked, logging to console only: Failed to load cookies
+Failed to load cookies
+Log file locked, logging to console only: Starting LinkedIn login...
+Starting LinkedIn login...
+Log file locked, logging to console only: Login may require MFA. Please complete verification manually.
+Login may require MFA. Please complete verification manually.
+Log file locked, logging to console only: Error: tab crashed
+  (Session info: chrome=141.0.7390.125)
+Error: tab crashed
+  (Session info: chrome=141.0.7390.125)
+^C[2025-11-05 22:27:23] Starting batch from line 1 to 50
+[2025-11-05 22:27:24] Failed to load cookies
+[2025-11-05 22:27:24] Starting LinkedIn login...
+[2025-11-05 22:27:55] Login may require MFA. Please complete verification manually.
+[2025-11-05 22:28:01] MFA verification completed
+[2025-11-05 22:28:01] Cookies saved
+[2025-11-05 22:28:01] Processing: https://www.linkedin.com/in/brentchance
+[2025-11-05 22:28:06] Skipped: https://www.linkedin.com/in/brentchance (No Connect button found)
+[2025-11-05 22:28:08] Processing: https://www.linkedin.com/in/ACoAACWuGvsBlxXr6Asa6P4DhhbtUjHUtspQSAg
+[2025-11-05 22:28:12] Skipped: https://www.linkedin.com/in/ACoAACWuGvsBlxXr6Asa6P4DhhbtUjHUtspQSAg (No Connect button found)
+[2025-11-05 22:28:14] Processing: https://www.linkedin.com/in/prashantagrawal1
+[2025-11-05 22:28:17] Skipped: https://www.linkedin.com/in/prashantagrawal1 (No Connect button found)
+[2025-11-05 22:28:19] Processing: https://www.linkedin.com/in/ACoAAABeIYIBkpBt4QqYyIn7SmIZcPtTAWgI5I8
+[2025-11-05 22:28:23] Skipped: https://www.linkedin.com/in/ACoAAABeIYIBkpBt4QqYyIn7SmIZcPtTAWgI5I8 (No Connect button found)
+[2025-11-05 22:28:25] Processing: https://www.linkedin.com/in/theryanglick
+[2025-11-05 22:28:28] Skipped: https://www.linkedin.com/in/theryanglick (No Connect button found)
+[2025-11-05 22:28:30] Processing: https://www.linkedin.com/in/ryan-glick-344a1a293
+[2025-11-05 22:28:33] Skipped: https://www.linkedin.com/in/ryan-glick-344a1a293 (No Connect button found)
+[2025-11-05 22:28:35] Processing: https://www.linkedin.com/in/moussie-haile-pharmd-7511b448
+[2025-11-05 22:28:39] Skipped: https://www.linkedin.com/in/moussie-haile-pharmd-7511b448 (No Connect button found)
+[2025-11-05 22:28:41] Processing: https://www.linkedin.com/in/moussie-haile-94b148133
+[2025-11-05 22:28:44] Skipped: https://www.linkedin.com/in/moussie-haile-94b148133 (No Connect button found)
+[2025-11-05 22:28:46] Processing: https://www.linkedin.com/in/mindiknebel
+[2025-11-05 22:28:50] Skipped: https://www.linkedin.com/in/mindiknebel (No Connect button found)
+[2025-11-05 22:28:52] Processing: https://www.linkedin.com/in/ACoAAABEbkoBlZFSwLvxIvxM3dBqmTk6XfmhQHg
+[2025-11-05 22:28:55] Skipped: https://www.linkedin.com/in/ACoAAABEbkoBlZFSwLvxIvxM3dBqmTk6XfmhQHg (No Connect button found)
+[2025-11-05 22:28:57] Processing: https://www.linkedin.com/in/sterling-lanier-0175072
+[2025-11-05 22:29:01] Skipped: https://www.linkedin.com/in/sterling-lanier-0175072 (No Connect button found)
+[2025-11-05 22:29:03] Processing: https://www.linkedin.com/in/ACoAAABuS1MBQBsuoxpWK7yOuqy6KbmGOh-_CNo
+[2025-11-05 22:29:07] Skipped: https://www.linkedin.com/in/ACoAAABuS1MBQBsuoxpWK7yOuqy6KbmGOh-_CNo (No Connect button found)
+[2025-11-05 22:29:09] Processing: https://www.linkedin.com/in/eli-moshehai-806395111
+[2025-11-05 22:29:12] Skipped: https://www.linkedin.com/in/eli-moshehai-806395111 (No Connect button found)
+[2025-11-05 22:29:14] Processing: https://www.linkedin.com/in/yareli
+[2025-11-05 22:29:18] Skipped: https://www.linkedin.com/in/yareli (No Connect button found)
+[2025-11-05 22:29:20] Processing: https://www.linkedin.com/in/ACoAAABJEGsBCnz64PVukKsqvGVxs6x-zW194x4
+[2025-11-05 22:29:24] Skipped: https://www.linkedin.com/in/ACoAAABJEGsBCnz64PVukKsqvGVxs6x-zW194x4 (No Connect button found)
+[2025-11-05 22:29:26] Processing: https://www.linkedin.com/in/mohan-plakkot-6883253
+[2025-11-05 22:31:49] Starting batch from line 1 to 50
+[2025-11-05 22:31:50] Failed to load cookies
+[2025-11-05 22:31:50] Starting LinkedIn login...
+[2025-11-05 22:32:23] Login may require MFA. Please complete verification manually.
+[2025-11-05 22:32:39] MFA verification completed
+[2025-11-05 22:32:39] Cookies saved
+[2025-11-05 22:32:39] Processing: https://www.linkedin.com/in/brentchance
+[2025-11-05 22:32:44] Skipped: https://www.linkedin.com/in/brentchance (No Connect button found)
+[2025-11-05 22:32:46] Processing: https://www.linkedin.com/in/ACoAACWuGvsBlxXr6Asa6P4DhhbtUjHUtspQSAg
+[2025-11-05 22:32:49] Skipped: https://www.linkedin.com/in/ACoAACWuGvsBlxXr6Asa6P4DhhbtUjHUtspQSAg (No Connect button found)
+[2025-11-05 22:32:51] Processing: https://www.linkedin.com/in/prashantagrawal1
+[2025-11-05 22:32:54] Skipped: https://www.linkedin.com/in/prashantagrawal1 (No Connect button found)
+[2025-11-05 22:32:56] Processing: https://www.linkedin.com/in/ACoAAABeIYIBkpBt4QqYyIn7SmIZcPtTAWgI5I8
+[2025-11-05 22:32:59] Skipped: https://www.linkedin.com/in/ACoAAABeIYIBkpBt4QqYyIn7SmIZcPtTAWgI5I8 (No Connect button found)
+[2025-11-05 22:33:01] Processing: https://www.linkedin.com/in/theryanglick
+[2025-11-05 22:33:04] Skipped: https://www.linkedin.com/in/theryanglick (No Connect button found)
+[2025-11-05 22:33:06] Processing: https://www.linkedin.com/in/ryan-glick-344a1a293
+[2025-11-05 22:33:10] Skipped: https://www.linkedin.com/in/ryan-glick-344a1a293 (No Connect button found)
+[2025-11-05 22:33:12] Processing: https://www.linkedin.com/in/moussie-haile-pharmd-7511b448
+[2025-11-05 22:33:15] Skipped: https://www.linkedin.com/in/moussie-haile-pharmd-7511b448 (No Connect button found)
+[2025-11-05 22:33:17] Processing: https://www.linkedin.com/in/moussie-haile-94b148133
+[2025-11-05 22:33:21] Skipped: https://www.linkedin.com/in/moussie-haile-94b148133 (No Connect button found)
+[2025-11-05 22:33:23] Processing: https://www.linkedin.com/in/mindiknebel
+[2025-11-05 22:33:27] Skipped: https://www.linkedin.com/in/mindiknebel (No Connect button found)
+[2025-11-05 22:33:29] Processing: https://www.linkedin.com/in/ACoAAABEbkoBlZFSwLvxIvxM3dBqmTk6XfmhQHg
+[2025-11-05 22:33:32] Skipped: https://www.linkedin.com/in/ACoAAABEbkoBlZFSwLvxIvxM3dBqmTk6XfmhQHg (No Connect button found)
+[2025-11-05 22:33:34] Processing: https://www.linkedin.com/in/sterling-lanier-0175072
+[2025-11-05 22:33:38] Skipped: https://www.linkedin.com/in/sterling-lanier-0175072 (No Connect button found)
+[2025-11-05 22:33:40] Processing: https://www.linkedin.com/in/ACoAAABuS1MBQBsuoxpWK7yOuqy6KbmGOh-_CNo
+[2025-11-05 22:33:43] Skipped: https://www.linkedin.com/in/ACoAAABuS1MBQBsuoxpWK7yOuqy6KbmGOh-_CNo (No Connect button found)
+[2025-11-05 22:33:45] Processing: https://www.linkedin.com/in/eli-moshehai-806395111
+[2025-11-05 22:33:49] Skipped: https://www.linkedin.com/in/eli-moshehai-806395111 (No Connect button found)
+[2025-11-05 22:33:51] Processing: https://www.linkedin.com/in/yareli
+[2025-11-05 22:33:54] Skipped: https://www.linkedin.com/in/yareli (No Connect button found)
+[2025-11-05 22:33:56] Processing: https://www.linkedin.com/in/ACoAAABJEGsBCnz64PVukKsqvGVxs6x-zW194x4
+[2025-11-05 22:34:00] Skipped: https://www.linkedin.com/in/ACoAAABJEGsBCnz64PVukKsqvGVxs6x-zW194x4 (No Connect button found)
+[2025-11-05 22:34:02] Processing: https://www.linkedin.com/in/mohan-plakkot-6883253
+[2025-11-05 22:34:05] Skipped: https://www.linkedin.com/in/mohan-plakkot-6883253 (No Connect button found)
+[2025-11-05 22:34:07] Processing: https://www.linkedin.com/in/emily-wickard-a2100b334
+[2025-11-05 22:34:11] Skipped: https://www.linkedin.com/in/emily-wickard-a2100b334 (No Connect button found)
+[2025-11-05 22:34:13] Processing: https://www.linkedin.com/in/emily-shack-wickard-74a5667
+[2025-11-05 22:34:16] Skipped: https://www.linkedin.com/in/emily-shack-wickard-74a5667 (No Connect button found)
+[2025-11-05 22:34:18] Processing: https://www.linkedin.com/in/dfisch
+[2025-11-05 22:34:22] Skipped: https://www.linkedin.com/in/dfisch (No Connect button found)
+[2025-11-05 22:34:24] Processing: https://www.linkedin.com/in/ACoAAAABJ9UBpwTmfNEzaJpAheiW2C5u2s3oiD8
+[2025-11-05 22:34:27] Skipped: https://www.linkedin.com/in/ACoAAAABJ9UBpwTmfNEzaJpAheiW2C5u2s3oiD8 (No Connect button found)
+[2025-11-05 22:34:29] Processing: https://www.linkedin.com/in/joannariley
+[2025-11-05 22:34:33] Skipped: https://www.linkedin.com/in/joannariley (No Connect button found)
+[2025-11-05 22:34:35] Processing: https://www.linkedin.com/in/ACoAAAAAJCcBDIT08r6O6v_XZlT-jSG6SWJ961o
+[2025-11-05 22:34:38] Skipped: https://www.linkedin.com/in/ACoAAAAAJCcBDIT08r6O6v_XZlT-jSG6SWJ961o (No Connect button found)
+[2025-11-05 22:34:40] Processing: https://www.linkedin.com/in/eddie-prchal-0151ab57
+[2025-11-05 22:34:43] Skipped: https://www.linkedin.com/in/eddie-prchal-0151ab57 (No Connect button found)
+[2025-11-05 22:34:45] Processing: https://www.linkedin.com/in/anthonyrmiller
+[2025-11-05 22:34:49] Skipped: https://www.linkedin.com/in/anthonyrmiller (No Connect button found)
+[2025-11-05 22:34:51] Processing: https://www.linkedin.com/in/ACoAAABEzPgBISqVAGOUb0REJ1fMCYHGcIBvqgM
+[2025-11-05 22:34:55] Skipped: https://www.linkedin.com/in/ACoAAABEzPgBISqVAGOUb0REJ1fMCYHGcIBvqgM (No Connect button found)
+[2025-11-05 22:34:57] Processing: https://www.linkedin.com/in/jsprenkle
+[2025-11-05 22:35:00] Skipped: https://www.linkedin.com/in/jsprenkle (No Connect button found)
+[2025-11-05 22:35:02] Processing: https://www.linkedin.com/in/jason-sprenkle-451a3320
+[2025-11-05 22:35:06] Skipped: https://www.linkedin.com/in/jason-sprenkle-451a3320 (No Connect button found)
+[2025-11-05 22:35:08] Processing: https://www.linkedin.com/in/geoffreyfcameronjr
+[2025-11-05 22:35:12] Skipped: https://www.linkedin.com/in/geoffreyfcameronjr (No Connect button found)
+[2025-11-05 22:35:14] Processing: https://www.linkedin.com/in/ACoAAAADaQQB1I8l-lXGacDPhXswuZ3Wvk0RrTQ
+[2025-11-05 22:35:17] Skipped: https://www.linkedin.com/in/ACoAAAADaQQB1I8l-lXGacDPhXswuZ3Wvk0RrTQ (No Connect button found)
+[2025-11-05 22:35:19] Processing: https://www.linkedin.com/in/abhishek-singh-9720ab101
+[2025-11-05 22:35:22] Skipped: https://www.linkedin.com/in/abhishek-singh-9720ab101 (No Connect button found)
+[2025-11-05 22:35:24] Processing: https://www.linkedin.com/in/ACoAABnSCaYBEPl9IWi8erVHDioeVpTpIDJdwqg
+[2025-11-05 22:35:27] Skipped: https://www.linkedin.com/in/ACoAABnSCaYBEPl9IWi8erVHDioeVpTpIDJdwqg (No Connect button found)
+[2025-11-05 22:35:29] Processing: https://www.linkedin.com/in/adam-lien
+[2025-11-05 22:35:33] Skipped: https://www.linkedin.com/in/adam-lien (No Connect button found)
+[2025-11-05 22:35:35] Processing: https://www.linkedin.com/in/adam-lien-366a88162
+[2025-11-05 22:35:39] Skipped: https://www.linkedin.com/in/adam-lien-366a88162 (No Connect button found)
+[2025-11-05 22:35:41] Processing: https://www.linkedin.com/in/faref
+[2025-11-05 22:35:45] Skipped: https://www.linkedin.com/in/faref (No Connect button found)
+[2025-11-05 22:35:47] Processing: https://www.linkedin.com/in/ACoAAABBMwUB9lwNuDKRSvcVJLWhMFOSWg6ApzE
+[2025-11-05 22:35:50] Skipped: https://www.linkedin.com/in/ACoAAABBMwUB9lwNuDKRSvcVJLWhMFOSWg6ApzE (No Connect button found)
+[2025-11-05 22:35:52] Processing: https://www.linkedin.com/in/dana-wilcox-58a50b
+[2025-11-05 22:35:55] Skipped: https://www.linkedin.com/in/dana-wilcox-58a50b (No Connect button found)
+[2025-11-05 22:35:57] Processing: https://www.linkedin.com/in/dana-wilcox-7037b2131
+[2025-11-05 22:36:01] Skipped: https://www.linkedin.com/in/dana-wilcox-7037b2131 (No Connect button found)
+[2025-11-05 22:36:03] Processing: https://www.linkedin.com/in/haris-anwaar-2206449
+[2025-11-05 22:36:06] Skipped: https://www.linkedin.com/in/haris-anwaar-2206449 (No Connect button found)
+[2025-11-05 22:36:08] Processing: https://www.linkedin.com/in/haris-anwar32
+[2025-11-05 22:36:12] Skipped: https://www.linkedin.com/in/haris-anwar32 (No Connect button found)
+[2025-11-05 22:36:14] Processing: https://www.linkedin.com/in/timslicker
+[2025-11-05 22:36:18] Skipped: https://www.linkedin.com/in/timslicker (No Connect button found)
+[2025-11-05 22:36:20] Processing: https://www.linkedin.com/in/ACoAAAA7HhMBfiue8yP3JNbU3Rba2rMHoxOyX0w
+[2025-11-05 22:36:23] Skipped: https://www.linkedin.com/in/ACoAAAA7HhMBfiue8yP3JNbU3Rba2rMHoxOyX0w (No Connect button found)
+[2025-11-05 22:36:25] Processing: https://www.linkedin.com/in/karoon
+[2025-11-05 22:36:29] Skipped: https://www.linkedin.com/in/karoon (No Connect button found)
+[2025-11-05 22:36:31] Processing: https://www.linkedin.com/in/ACoAABVFGxUB7sst76TabI2pAX2WBoHNV5bBwtU
+[2025-11-05 22:36:35] Skipped: https://www.linkedin.com/in/ACoAABVFGxUB7sst76TabI2pAX2WBoHNV5bBwtU (No Connect button found)
+[2025-11-05 22:36:37] Processing: https://www.linkedin.com/in/pingxin-wang-phd-5971795
+[2025-11-05 22:36:41] Skipped: https://www.linkedin.com/in/pingxin-wang-phd-5971795 (No Connect button found)
+[2025-11-05 22:36:43] Processing: https://www.linkedin.com/in/pingxin-wang-573b85194
+[2025-11-05 22:36:47] Skipped: https://www.linkedin.com/in/pingxin-wang-573b85194 (No Connect button found)
+[2025-11-05 22:36:49] Processing: https://www.linkedin.com/in/andrew-d-monteyne-0770b3215
+[2025-11-05 22:36:54] Skipped: https://www.linkedin.com/in/andrew-d-monteyne-0770b3215 (No Connect button found)
+[2025-11-05 22:36:56] Processing: https://www.linkedin.com/in/andrewmonteyne
+[2025-11-05 22:37:00] Skipped: https://www.linkedin.com/in/andrewmonteyne (No Connect button found)
+[2025-11-05 22:37:02] Processing: https://www.linkedin.com/in/kyle-klewin-b8385018
+[2025-11-05 22:37:06] Skipped: https://www.linkedin.com/in/kyle-klewin-b8385018 (No Connect button found)
+[2025-11-05 22:37:08] Processing: https://www.linkedin.com/in/kyle-klewin-0507ab32
+[2025-11-05 22:37:12] Skipped: https://www.linkedin.com/in/kyle-klewin-0507ab32 (No Connect button found)
+[2025-11-05 22:37:14] Processing: https://www.linkedin.com/in/jeffreyglass
+[2025-11-05 22:37:18] Skipped: https://www.linkedin.com/in/jeffreyglass (No Connect button found)
+[2025-11-05 22:37:20] Batch completed. Processed 0 connections. Next start line: 51
+[2025-11-05 22:44:47] Starting batch from line 51 to 100
+[2025-11-05 22:44:48] Failed to load cookies
+[2025-11-05 22:44:48] Starting LinkedIn login...
+[2025-11-05 22:45:20] Login may require MFA. Please complete verification manually.
+[2025-11-05 22:50:20] Error: Waiting for URL to contain "feed"
+Wait timed out after 300150ms
+[2025-11-05 23:09:14] Starting batch from line 51 to 100
+[2025-11-05 23:09:15] Failed to load cookies
+[2025-11-05 23:09:15] Starting LinkedIn login...
+[2025-11-05 23:09:47] Login may require MFA. Please complete verification manually.
+[2025-11-05 23:14:47] Starting batch from line 51 to 100
+[2025-11-05 23:14:48] Failed to load cookies
+[2025-11-05 23:14:48] Starting LinkedIn login...
+[2025-11-05 23:15:20] Login may require MFA. Please complete verification manually.
+[2025-11-05 23:20:20] Error: Waiting for URL to contain "feed"
+Wait timed out after 300202ms
+[2025-11-06 00:43:32] Starting batch from line 51 to 100
+[2025-11-06 00:43:34] Failed to load cookies
+[2025-11-06 00:43:34] Starting LinkedIn login...
+[2025-11-06 00:44:07] Login may require MFA. Please complete verification manually.
+[2025-11-06 00:44:31] MFA verification completed
+[2025-11-06 00:44:31] Cookies saved
+[2025-11-06 00:44:31] Processing: https://www.linkedin.com/in/jeffrey-glass-6330a623
+[2025-11-06 00:44:35] Skipped: https://www.linkedin.com/in/jeffrey-glass-6330a623 (No Connect button found)
+[2025-11-06 00:44:37] Processing: https://www.linkedin.com/in/steve-hess-12435417
+[2025-11-06 00:44:41] Skipped: https://www.linkedin.com/in/steve-hess-12435417 (No Connect button found)
+[2025-11-06 00:44:43] Processing: https://www.linkedin.com/in/steve-hess-9258b785
+[2025-11-06 00:44:54] Skipped: https://www.linkedin.com/in/steve-hess-9258b785 (No Connect button found)
+[2025-11-06 00:44:56] Processing: https://www.linkedin.com/in/monika-mazzullo-70478776
+[2025-11-06 00:45:00] Skipped: https://www.linkedin.com/in/monika-mazzullo-70478776 (No Connect button found)
+[2025-11-06 00:45:02] Processing: https://www.linkedin.com/in/monica-mazzullo-36430597
+[2025-11-06 00:45:06] Skipped: https://www.linkedin.com/in/monica-mazzullo-36430597 (No Connect button found)
+[2025-11-06 00:45:08] Processing: https://www.linkedin.com/in/sunwook-an-0a85a014
+[2025-11-06 00:45:12] Skipped: https://www.linkedin.com/in/sunwook-an-0a85a014 (No Connect button found)
+[2025-11-06 00:45:14] Processing: https://www.linkedin.com/in/sunwook-an-8b493b169
+[2025-11-06 00:45:18] Skipped: https://www.linkedin.com/in/sunwook-an-8b493b169 (No Connect button found)
+[2025-11-06 00:45:20] Processing: https://www.linkedin.com/in/kdd018
+[2025-11-06 00:45:23] Skipped: https://www.linkedin.com/in/kdd018 (No Connect button found)
+[2025-11-06 00:45:25] Processing: https://www.linkedin.com/in/ACoAAAWeoisBwHnE6ppyXzGgiFHVSSCb_SMAagI
+[2025-11-06 00:45:28] Skipped: https://www.linkedin.com/in/ACoAAAWeoisBwHnE6ppyXzGgiFHVSSCb_SMAagI (No Connect button found)
+[2025-11-06 00:45:30] Processing: https://www.linkedin.com/in/bruce-floersheim-ph-d-p-e-b1183414
+[2025-11-06 00:45:34] Skipped: https://www.linkedin.com/in/bruce-floersheim-ph-d-p-e-b1183414 (No Connect button found)
+[2025-11-06 00:45:36] Processing: https://www.linkedin.com/in/wayne-thompson-08a10772
+[2025-11-06 00:45:39] Skipped: https://www.linkedin.com/in/wayne-thompson-08a10772 (No Connect button found)
+[2025-11-06 00:45:41] Processing: https://www.linkedin.com/in/ACoAAAA-Px8BBQaQrT5yv5tUt8MV0-jJ4a6waLg
+[2025-11-06 00:45:45] Skipped: https://www.linkedin.com/in/ACoAAAA-Px8BBQaQrT5yv5tUt8MV0-jJ4a6waLg (No Connect button found)
+[2025-11-06 00:45:47] Processing: https://www.linkedin.com/in/rob-simopoulos-6b658413
+[2025-11-06 00:45:50] Skipped: https://www.linkedin.com/in/rob-simopoulos-6b658413 (No Connect button found)
+[2025-11-06 00:45:52] Processing: https://www.linkedin.com/in/ACoAAAHiov0B2phJbRX6K_5deDq7mwEkyMkb47U
+[2025-11-06 00:45:56] Skipped: https://www.linkedin.com/in/ACoAAAHiov0B2phJbRX6K_5deDq7mwEkyMkb47U (No Connect button found)
+[2025-11-06 00:45:58] Processing: https://www.linkedin.com/in/brandendickey
+[2025-11-06 00:46:02] Skipped: https://www.linkedin.com/in/brandendickey (No Connect button found)
+[2025-11-06 00:46:04] Processing: https://www.linkedin.com/in/brandondickey
+[2025-11-06 00:46:07] Skipped: https://www.linkedin.com/in/brandondickey (No Connect button found)
+[2025-11-06 00:46:09] Processing: https://www.linkedin.com/in/david-riggs-71149417
+[2025-11-06 00:46:13] Skipped: https://www.linkedin.com/in/david-riggs-71149417 (No Connect button found)
+[2025-11-06 00:46:15] Processing: https://www.linkedin.com/in/ACoAABb-h7ABfeB-fnkkX739iXSQstV4z5aMx-M
+[2025-11-06 00:46:18] Skipped: https://www.linkedin.com/in/ACoAABb-h7ABfeB-fnkkX739iXSQstV4z5aMx-M (No Connect button found)
+[2025-11-06 00:46:20] Processing: https://www.linkedin.com/in/carlos-corredor-condor
+[2025-11-06 00:46:24] Skipped: https://www.linkedin.com/in/carlos-corredor-condor (No Connect button found)
+[2025-11-06 00:46:26] Processing: https://www.linkedin.com/in/ACoAAAA2RP8BEFWGnyepIGbaO6AZIG6Tob6QBmI
+[2025-11-06 00:46:29] Skipped: https://www.linkedin.com/in/ACoAAAA2RP8BEFWGnyepIGbaO6AZIG6Tob6QBmI (No Connect button found)
+[2025-11-06 00:46:31] Processing: https://www.linkedin.com/in/kelomakelele
+[2025-11-06 00:46:35] Skipped: https://www.linkedin.com/in/kelomakelele (No Connect button found)
+[2025-11-06 00:46:37] Processing: https://www.linkedin.com/in/ACoAAAlgriMB98PSUwkZDMM5trh61zg-glfmbAY
+[2025-11-06 00:46:40] Skipped: https://www.linkedin.com/in/ACoAAAlgriMB98PSUwkZDMM5trh61zg-glfmbAY (No Connect button found)
+[2025-11-06 00:46:42] Processing: https://www.linkedin.com/in/milan-martin-b8605a67
+[2025-11-06 00:46:46] Skipped: https://www.linkedin.com/in/milan-martin-b8605a67 (No Connect button found)
+[2025-11-06 00:46:48] Processing: https://www.linkedin.com/in/milanmartin
+[2025-11-06 00:46:52] Skipped: https://www.linkedin.com/in/milanmartin (No Connect button found)
+[2025-11-06 00:46:54] Processing: https://www.linkedin.com/in/mayra-khan
+[2025-11-06 00:46:57] Skipped: https://www.linkedin.com/in/mayra-khan (No Connect button found)
+[2025-11-06 00:46:59] Processing: https://www.linkedin.com/in/mayra-khan-63951a23b
+[2025-11-06 00:47:03] Skipped: https://www.linkedin.com/in/mayra-khan-63951a23b (No Connect button found)
+[2025-11-06 00:47:05] Processing: https://www.linkedin.com/in/mccallmcpherson
+[2025-11-06 00:47:09] Skipped: https://www.linkedin.com/in/mccallmcpherson (No Connect button found)
+[2025-11-06 00:47:11] Processing: https://www.linkedin.com/in/kandi-mccall-233a54b8
+[2025-11-06 00:47:14] Skipped: https://www.linkedin.com/in/kandi-mccall-233a54b8 (No Connect button found)
+[2025-11-06 00:47:16] Processing: https://www.linkedin.com/in/mathew-sorensen
+[2025-11-06 00:47:20] Skipped: https://www.linkedin.com/in/mathew-sorensen (No Connect button found)
+[2025-11-06 00:47:22] Processing: https://www.linkedin.com/in/matthew-sorensen-a7558b4b
+[2025-11-06 00:47:26] Skipped: https://www.linkedin.com/in/matthew-sorensen-a7558b4b (No Connect button found)
+[2025-11-06 00:47:28] Processing: https://www.linkedin.com/in/adiazaria
+[2025-11-06 00:47:31] Skipped: https://www.linkedin.com/in/adiazaria (No Connect button found)
+[2025-11-06 00:47:33] Processing: https://www.linkedin.com/in/ACoAAAACsVcB2n0TuHueo1NqFIAJRnlVd3AVlac
+[2025-11-06 00:47:37] Skipped: https://www.linkedin.com/in/ACoAAAACsVcB2n0TuHueo1NqFIAJRnlVd3AVlac (No Connect button found)
+[2025-11-06 00:47:39] Processing: https://www.linkedin.com/in/jesse-walters-2749a785
+[2025-11-06 00:47:43] Skipped: https://www.linkedin.com/in/jesse-walters-2749a785 (No Connect button found)
+[2025-11-06 00:47:45] Processing: https://www.linkedin.com/in/jesse-walters-2ab5899a
+[2025-11-06 00:47:50] Skipped: https://www.linkedin.com/in/jesse-walters-2ab5899a (No Connect button found)
+[2025-11-06 00:47:52] Processing: https://www.linkedin.com/in/tom-dorsey-jr
+[2025-11-06 00:47:56] Skipped: https://www.linkedin.com/in/tom-dorsey-jr (No Connect button found)
+[2025-11-06 00:47:58] Processing: https://www.linkedin.com/in/thomasmartin794
+[2025-11-06 00:48:03] Skipped: https://www.linkedin.com/in/thomasmartin794 (No Connect button found)
+[2025-11-06 00:48:05] Processing: https://www.linkedin.com/in/eli-jones-3910795
+[2025-11-06 00:48:09] Skipped: https://www.linkedin.com/in/eli-jones-3910795 (No Connect button found)
+[2025-11-06 00:48:11] Processing: https://www.linkedin.com/in/ACoAABkpbpkBzrYHyTDjL1KuBa1bqy5vYNdPcOM
+[2025-11-06 00:48:15] Skipped: https://www.linkedin.com/in/ACoAABkpbpkBzrYHyTDjL1KuBa1bqy5vYNdPcOM (No Connect button found)
+[2025-11-06 00:48:17] Processing: https://www.linkedin.com/in/erikasinner
+[2025-11-06 00:48:22] Skipped: https://www.linkedin.com/in/erikasinner (No Connect button found)
+[2025-11-06 00:48:24] Processing: https://www.linkedin.com/in/esinner
+[2025-11-06 00:48:29] Skipped: https://www.linkedin.com/in/esinner (No Connect button found)
+[2025-11-06 00:48:31] Processing: https://www.linkedin.com/in/drew-white-61529518
+[2025-11-06 00:48:35] Skipped: https://www.linkedin.com/in/drew-white-61529518 (No Connect button found)
+[2025-11-06 00:48:37] Processing: https://www.linkedin.com/in/drew-white-833797193
+[2025-11-06 00:48:41] Skipped: https://www.linkedin.com/in/drew-white-833797193 (No Connect button found)
+[2025-11-06 00:48:43] Processing: https://www.linkedin.com/in/roger-groeper-7a3aa2132
+[2025-11-06 00:48:47] Skipped: https://www.linkedin.com/in/roger-groeper-7a3aa2132 (No Connect button found)
+[2025-11-06 00:48:49] Processing: https://www.linkedin.com/in/drclmoreland
+[2025-11-06 00:48:54] Skipped: https://www.linkedin.com/in/drclmoreland (No Connect button found)
+[2025-11-06 00:48:56] Processing: https://www.linkedin.com/in/ACoAAA8zjRYBSKX5cjlJtNRncUCL80I8o5GB5H0
+[2025-11-06 00:49:01] Skipped: https://www.linkedin.com/in/ACoAAA8zjRYBSKX5cjlJtNRncUCL80I8o5GB5H0 (No Connect button found)
+[2025-11-06 00:49:03] Processing: https://www.linkedin.com/in/patricktam
+[2025-11-06 00:49:08] Skipped: https://www.linkedin.com/in/patricktam (No Connect button found)
+[2025-11-06 00:49:10] Processing: https://www.linkedin.com/in/ACoAAAACJJUB0Hby2VtkZ2Go5xMWV0YP7cl4ByY
+[2025-11-06 00:49:14] Skipped: https://www.linkedin.com/in/ACoAAAACJJUB0Hby2VtkZ2Go5xMWV0YP7cl4ByY (No Connect button found)
+[2025-11-06 00:49:16] Processing: https://www.linkedin.com/in/kimberlyzanatta
+[2025-11-06 00:49:20] Skipped: https://www.linkedin.com/in/kimberlyzanatta (No Connect button found)
+[2025-11-06 00:49:22] Processing: https://www.linkedin.com/in/ACoAAACZoQ0BrvRPVolA6nJ2aqqVxjn9t3qAfYo
+[2025-11-06 00:49:27] Skipped: https://www.linkedin.com/in/ACoAAACZoQ0BrvRPVolA6nJ2aqqVxjn9t3qAfYo (No Connect button found)
+[2025-11-06 00:49:29] Processing: https://www.linkedin.com/in/brandonflanagan
+[2025-11-06 00:49:33] Skipped: https://www.linkedin.com/in/brandonflanagan (No Connect button found)
+[2025-11-06 00:49:35] Batch completed. Processed 0 connections. Next start line: 101
+Log file locked, logging to console only: Starting batch from line 101 to 150
+Starting batch from line 101 to 150
+Log file locked, logging to console only: Failed to load cookies
+Failed to load cookies
+Log file locked, logging to console only: Starting LinkedIn login...
+Starting LinkedIn login...
+Log file locked, logging to console only: Login may require MFA. Please complete verification manually.
+Login may require MFA. Please complete verification manually.
+Log file locked, logging to console only: MFA verification completed
+MFA verification completed
+Log file locked, logging to console only: Cookies saved
+Cookies saved
+Log file locked, logging to console only: Processing: https://www.linkedin.com/in/flanaganbrendan
+Processing: https://www.linkedin.com/in/flanaganbrendan
+Log file locked, logging to console only: Skipped: https://www.linkedin.com/in/flanaganbrendan (No Connect button found)
+Skipped: https://www.linkedin.com/in/flanaganbrendan (No Connect button found)
+Log file locked, logging to console only: Processing: https://www.linkedin.com/in/lisa-chan-sawin-4379603
+Processing: https://www.linkedin.com/in/lisa-chan-sawin-4379603
+Log file locked, logging to console only: Skipped: https://www.linkedin.com/in/lisa-chan-sawin-4379603 (No Connect button found)
+Skipped: https://www.linkedin.com/in/lisa-chan-sawin-4379603 (No Connect button found)
+Log file locked, logging to console only: Processing: https://www.linkedin.com/in/dr-erica-jordan-thomas-86314764
+Processing: https://www.linkedin.com/in/dr-erica-jordan-thomas-86314764
+Log file locked, logging to console only: Skipped: https://www.linkedin.com/in/dr-erica-jordan-thomas-86314764 (No Connect button found)
+Skipped: https://www.linkedin.com/in/dr-erica-jordan-thomas-86314764 (No Connect button found)
+Log file locked, logging to console only: Processing: https://www.linkedin.com/in/erica-jordan-thomas-7a10564
+Processing: https://www.linkedin.com/in/erica-jordan-thomas-7a10564
+Log file locked, logging to console only: Skipped: https://www.linkedin.com/in/erica-jordan-thomas-7a10564 (No Connect button found)
+Skipped: https://www.linkedin.com/in/erica-jordan-thomas-7a10564 (No Connect button found)
+Log file locked, logging to console only: Processing: https://www.linkedin.com/in/jon-nelson-3885012
+Processing: https://www.linkedin.com/in/jon-nelson-3885012
+Log file locked, logging to console only: Skipped: https://www.linkedin.com/in/jon-nelson-3885012 (No Connect button found)
+Skipped: https://www.linkedin.com/in/jon-nelson-3885012 (No Connect button found)
+Log file locked, logging to console only: Processing: https://www.linkedin.com/in/ACoAAAABAFsBB4vx1nK5TrcZYt6KyWfuUGY9fBI
+Processing: https://www.linkedin.com/in/ACoAAAABAFsBB4vx1nK5TrcZYt6KyWfuUGY9fBI
+Log file locked, logging to console only: Skipped: https://www.linkedin.com/in/ACoAAAABAFsBB4vx1nK5TrcZYt6KyWfuUGY9fBI (No Connect button found)
+Skipped: https://www.linkedin.com/in/ACoAAAABAFsBB4vx1nK5TrcZYt6KyWfuUGY9fBI (No Connect button found)
+Log file locked, logging to console only: Processing: https://www.linkedin.com/in/fredbrothers
+Processing: https://www.linkedin.com/in/fredbrothers
+Log file locked, logging to console only: Skipped: https://www.linkedin.com/in/fredbrothers (No Connect button found)
+Skipped: https://www.linkedin.com/in/fredbrothers (No Connect button found)
+Log file locked, logging to console only: Processing: https://www.linkedin.com/in/ACoAAABFzkkBvk-RJ5gCxPgmRagIoEtA-0R_v1Q
+Processing: https://www.linkedin.com/in/ACoAAABFzkkBvk-RJ5gCxPgmRagIoEtA-0R_v1Q
+Log file locked, logging to console only: Skipped: https://www.linkedin.com/in/ACoAAABFzkkBvk-RJ5gCxPgmRagIoEtA-0R_v1Q (No Connect button found)
+Skipped: https://www.linkedin.com/in/ACoAAABFzkkBvk-RJ5gCxPgmRagIoEtA-0R_v1Q (No Connect button found)
+Log file locked, logging to console only: Processing: https://www.linkedin.com/in/bobby-bisharat-7188b084
+Processing: https://www.linkedin.com/in/bobby-bisharat-7188b084
+Log file locked, logging to console only: Skipped: https://www.linkedin.com/in/bobby-bisharat-7188b084 (No Connect button found)
+Skipped: https://www.linkedin.com/in/bobby-bisharat-7188b084 (No Connect button found)
+Log file locked, logging to console only: Processing: https://www.linkedin.com/in/chapus-charles-a53633b7
+Processing: https://www.linkedin.com/in/chapus-charles-a53633b7
+Log file locked, logging to console only: Skipped: https://www.linkedin.com/in/chapus-charles-a53633b7 (No Connect button found)
+Skipped: https://www.linkedin.com/in/chapus-charles-a53633b7 (No Connect button found)
+Log file locked, logging to console only: Processing: https://www.linkedin.com/in/charles-chapus-34267b7
+Processing: https://www.linkedin.com/in/charles-chapus-34267b7
+Log file locked, logging to console only: Skipped: https://www.linkedin.com/in/charles-chapus-34267b7 (No Connect button found)
+Skipped: https://www.linkedin.com/in/charles-chapus-34267b7 (No Connect button found)
+Log file locked, logging to console only: Processing: https://www.linkedin.com/in/joseph-kashurba-60375915
+Processing: https://www.linkedin.com/in/joseph-kashurba-60375915
+Log file locked, logging to console only: Skipped: https://www.linkedin.com/in/joseph-kashurba-60375915 (No Connect button found)
+Skipped: https://www.linkedin.com/in/joseph-kashurba-60375915 (No Connect button found)
+Log file locked, logging to console only: Processing: https://www.linkedin.com/in/joseph-kashurba-450527302
+Processing: https://www.linkedin.com/in/joseph-kashurba-450527302
+Log file locked, logging to console only: Skipped: https://www.linkedin.com/in/joseph-kashurba-450527302 (No Connect button found)
+Skipped: https://www.linkedin.com/in/joseph-kashurba-450527302 (No Connect button found)
+Log file locked, logging to console only: Processing: https://www.linkedin.com/in/luke-briggs-b25208215
+Processing: https://www.linkedin.com/in/luke-briggs-b25208215
+Log file locked, logging to console only: Skipped: https://www.linkedin.com/in/luke-briggs-b25208215 (No Connect button found)
+Skipped: https://www.linkedin.com/in/luke-briggs-b25208215 (No Connect button found)
+Log file locked, logging to console only: Processing: https://www.linkedin.com/in/lukebriggs
+Processing: https://www.linkedin.com/in/lukebriggs
+Log file locked, logging to console only: Skipped: https://www.linkedin.com/in/lukebriggs (No Connect button found)
+Skipped: https://www.linkedin.com/in/lukebriggs (No Connect button found)
+Log file locked, logging to console only: Processing: https://www.linkedin.com/in/siva-namasivayam-85a2462
+Processing: https://www.linkedin.com/in/siva-namasivayam-85a2462
+Log file locked, logging to console only: Skipped: https://www.linkedin.com/in/siva-namasivayam-85a2462 (No Connect button found)
+Skipped: https://www.linkedin.com/in/siva-namasivayam-85a2462 (No Connect button found)
+Log file locked, logging to console only: Processing: https://www.linkedin.com/in/ACoAAAZ-pQQBNo6oZbaXneQSWCCCxNJja-21_Oo
+Processing: https://www.linkedin.com/in/ACoAAAZ-pQQBNo6oZbaXneQSWCCCxNJja-21_Oo
+Log file locked, logging to console only: Skipped: https://www.linkedin.com/in/ACoAAAZ-pQQBNo6oZbaXneQSWCCCxNJja-21_Oo (No Connect button found)
+Skipped: https://www.linkedin.com/in/ACoAAAZ-pQQBNo6oZbaXneQSWCCCxNJja-21_Oo (No Connect button found)
+Log file locked, logging to console only: Processing: https://www.linkedin.com/in/davis-bo
+Processing: https://www.linkedin.com/in/davis-bo
+Log file locked, logging to console only: Skipped: https://www.linkedin.com/in/davis-bo (No Connect button found)
+Skipped: https://www.linkedin.com/in/davis-bo (No Connect button found)
+Log file locked, logging to console only: Processing: https://www.linkedin.com/in/robert-bo-davis
+Processing: https://www.linkedin.com/in/robert-bo-davis
+Log file locked, logging to console only: Skipped: https://www.linkedin.com/in/robert-bo-davis (No Connect button found)
+Skipped: https://www.linkedin.com/in/robert-bo-davis (No Connect button found)
+Log file locked, logging to console only: Processing: https://www.linkedin.com/in/mapink
+Processing: https://www.linkedin.com/in/mapink
+Log file locked, logging to console only: Skipped: https://www.linkedin.com/in/mapink (No Connect button found)
+Skipped: https://www.linkedin.com/in/mapink (No Connect button found)
+Log file locked, logging to console only: Processing: https://www.linkedin.com/in/ACoAAAvj4sIBb9ljSY3jCUAu5lOtx_gQnF2OKLk
+Processing: https://www.linkedin.com/in/ACoAAAvj4sIBb9ljSY3jCUAu5lOtx_gQnF2OKLk
+Log file locked, logging to console only: Skipped: https://www.linkedin.com/in/ACoAAAvj4sIBb9ljSY3jCUAu5lOtx_gQnF2OKLk (No Connect button found)
+Skipped: https://www.linkedin.com/in/ACoAAAvj4sIBb9ljSY3jCUAu5lOtx_gQnF2OKLk (No Connect button found)
+Log file locked, logging to console only: Processing: https://www.linkedin.com/in/mike-thompson-568309204
+Processing: https://www.linkedin.com/in/mike-thompson-568309204
+Log file locked, logging to console only: Skipped: https://www.linkedin.com/in/mike-thompson-568309204 (No Connect button found)
+Skipped: https://www.linkedin.com/in/mike-thompson-568309204 (No Connect button found)
+Log file locked, logging to console only: Processing: https://www.linkedin.com/in/miketartworks
+Processing: https://www.linkedin.com/in/miketartworks
+Log file locked, logging to console only: Skipped: https://www.linkedin.com/in/miketartworks (No Connect button found)
+Skipped: https://www.linkedin.com/in/miketartworks (No Connect button found)
+Log file locked, logging to console only: Processing: https://www.linkedin.com/in/rwicoff
+Processing: https://www.linkedin.com/in/rwicoff
+Log file locked, logging to console only: Skipped: https://www.linkedin.com/in/rwicoff (No Connect button found)
+Skipped: https://www.linkedin.com/in/rwicoff (No Connect button found)
+Log file locked, logging to console only: Processing: https://www.linkedin.com/in/reid-wicoff-5507a2266
+Processing: https://www.linkedin.com/in/reid-wicoff-5507a2266
+Log file locked, logging to console only: Skipped: https://www.linkedin.com/in/reid-wicoff-5507a2266 (No Connect button found)
+Skipped: https://www.linkedin.com/in/reid-wicoff-5507a2266 (No Connect button found)
+Log file locked, logging to console only: Processing: https://www.linkedin.com/in/brent-comstock-6b9185
+Processing: https://www.linkedin.com/in/brent-comstock-6b9185
+Log file locked, logging to console only: Skipped: https://www.linkedin.com/in/brent-comstock-6b9185 (No Connect button found)
+Skipped: https://www.linkedin.com/in/brent-comstock-6b9185 (No Connect button found)
+Log file locked, logging to console only: Processing: https://www.linkedin.com/in/ACoAAAAWr3kBvkdAjHRY11zplNniKin9jmNVJVE
+Processing: https://www.linkedin.com/in/ACoAAAAWr3kBvkdAjHRY11zplNniKin9jmNVJVE
+Log file locked, logging to console only: Skipped: https://www.linkedin.com/in/ACoAAAAWr3kBvkdAjHRY11zplNniKin9jmNVJVE (No Connect button found)
+Skipped: https://www.linkedin.com/in/ACoAAAAWr3kBvkdAjHRY11zplNniKin9jmNVJVE (No Connect button found)
+Log file locked, logging to console only: Processing: https://www.linkedin.com/in/joseph-mccabe-123a3719
+Processing: https://www.linkedin.com/in/joseph-mccabe-123a3719
+Log file locked, logging to console only: Skipped: https://www.linkedin.com/in/joseph-mccabe-123a3719 (No Connect button found)
+Skipped: https://www.linkedin.com/in/joseph-mccabe-123a3719 (No Connect button found)
+Log file locked, logging to console only: Processing: https://www.linkedin.com/in/joseph-mccabe-4536b3285
+Processing: https://www.linkedin.com/in/joseph-mccabe-4536b3285
+Log file locked, logging to console only: Skipped: https://www.linkedin.com/in/joseph-mccabe-4536b3285 (No Connect button found)
+Skipped: https://www.linkedin.com/in/joseph-mccabe-4536b3285 (No Connect button found)
+Log file locked, logging to console only: Processing: https://www.linkedin.com/in/jos%C3%A9-eduardo-herrera-a64399102
+Processing: https://www.linkedin.com/in/jos%C3%A9-eduardo-herrera-a64399102
+Log file locked, logging to console only: Skipped: https://www.linkedin.com/in/jos%C3%A9-eduardo-herrera-a64399102 (No Connect button found)
+Skipped: https://www.linkedin.com/in/jos%C3%A9-eduardo-herrera-a64399102 (No Connect button found)
+Log file locked, logging to console only: Processing: https://www.linkedin.com/in/jose-eduardo-herrera-a0432120b
+Processing: https://www.linkedin.com/in/jose-eduardo-herrera-a0432120b
+Log file locked, logging to console only: Skipped: https://www.linkedin.com/in/jose-eduardo-herrera-a0432120b (No Connect button found)
+Skipped: https://www.linkedin.com/in/jose-eduardo-herrera-a0432120b (No Connect button found)
+Log file locked, logging to console only: Processing: https://www.linkedin.com/in/latoshianorwood
+Processing: https://www.linkedin.com/in/latoshianorwood
+Log file locked, logging to console only: Skipped: https://www.linkedin.com/in/latoshianorwood (No Connect button found)
+Skipped: https://www.linkedin.com/in/latoshianorwood (No Connect button found)
+Log file locked, logging to console only: Processing: https://www.linkedin.com/in/latoshia-norwood-pmp-6554b05
+Processing: https://www.linkedin.com/in/latoshia-norwood-pmp-6554b05
+Log file locked, logging to console only: Skipped: https://www.linkedin.com/in/latoshia-norwood-pmp-6554b05 (No Connect button found)
+Skipped: https://www.linkedin.com/in/latoshia-norwood-pmp-6554b05 (No Connect button found)
+Log file locked, logging to console only: Processing: https://www.linkedin.com/in/cassandra-spencer-23ab37179
+Processing: https://www.linkedin.com/in/cassandra-spencer-23ab37179
+Log file locked, logging to console only: Skipped: https://www.linkedin.com/in/cassandra-spencer-23ab37179 (No Connect button found)
+Skipped: https://www.linkedin.com/in/cassandra-spencer-23ab37179 (No Connect button found)
+Log file locked, logging to console only: Processing: https://www.linkedin.com/in/cassandra-spencer-ceo-4826321
+Processing: https://www.linkedin.com/in/cassandra-spencer-ceo-4826321
+Log file locked, logging to console only: Skipped: https://www.linkedin.com/in/cassandra-spencer-ceo-4826321 (No Connect button found)
+Skipped: https://www.linkedin.com/in/cassandra-spencer-ceo-4826321 (No Connect button found)
+Log file locked, logging to console only: Processing: https://www.linkedin.com/in/mcsorleylauren
+Processing: https://www.linkedin.com/in/mcsorleylauren
+Log file locked, logging to console only: Skipped: https://www.linkedin.com/in/mcsorleylauren (No Connect button found)
+Skipped: https://www.linkedin.com/in/mcsorleylauren (No Connect button found)
+Log file locked, logging to console only: Processing: https://www.linkedin.com/in/jimwilton
+Processing: https://www.linkedin.com/in/jimwilton
+Log file locked, logging to console only: Skipped: https://www.linkedin.com/in/jimwilton (No Connect button found)
+Skipped: https://www.linkedin.com/in/jimwilton (No Connect button found)
+Log file locked, logging to console only: Processing: https://www.linkedin.com/in/ACoAAAPg_pMBSqb7cayYLPy2y6jpYiu2CKLV7Og
+Processing: https://www.linkedin.com/in/ACoAAAPg_pMBSqb7cayYLPy2y6jpYiu2CKLV7Og
+Log file locked, logging to console only: Skipped: https://www.linkedin.com/in/ACoAAAPg_pMBSqb7cayYLPy2y6jpYiu2CKLV7Og (No Connect button found)
+Skipped: https://www.linkedin.com/in/ACoAAAPg_pMBSqb7cayYLPy2y6jpYiu2CKLV7Og (No Connect button found)
+Log file locked, logging to console only: Processing: https://www.linkedin.com/in/richard-mugica-4b1516321
+Processing: https://www.linkedin.com/in/richard-mugica-4b1516321
+Log file locked, logging to console only: Skipped: https://www.linkedin.com/in/richard-mugica-4b1516321 (No Connect button found)
+Skipped: https://www.linkedin.com/in/richard-mugica-4b1516321 (No Connect button found)
+Log file locked, logging to console only: Processing: https://www.linkedin.com/in/richardmugica
+Processing: https://www.linkedin.com/in/richardmugica
+Log file locked, logging to console only: Skipped: https://www.linkedin.com/in/richardmugica (No Connect button found)
+Skipped: https://www.linkedin.com/in/richardmugica (No Connect button found)
+Log file locked, logging to console only: Processing: https://www.linkedin.com/in/brian-hassan-69220958
+Processing: https://www.linkedin.com/in/brian-hassan-69220958
+Log file locked, logging to console only: Skipped: https://www.linkedin.com/in/brian-hassan-69220958 (No Connect button found)
+Skipped: https://www.linkedin.com/in/brian-hassan-69220958 (No Connect button found)
+Log file locked, logging to console only: Processing: https://www.linkedin.com/in/ACoAABlORtgBPEkdFuMLc4ifENiBtvnhX_HPNPw
+Processing: https://www.linkedin.com/in/ACoAABlORtgBPEkdFuMLc4ifENiBtvnhX_HPNPw
+Log file locked, logging to console only: Skipped: https://www.linkedin.com/in/ACoAABlORtgBPEkdFuMLc4ifENiBtvnhX_HPNPw (No Connect button found)
+Skipped: https://www.linkedin.com/in/ACoAABlORtgBPEkdFuMLc4ifENiBtvnhX_HPNPw (No Connect button found)
+Log file locked, logging to console only: Processing: https://www.linkedin.com/in/troy-brown-3542611
+Processing: https://www.linkedin.com/in/troy-brown-3542611
+Log file locked, logging to console only: Error processing https://www.linkedin.com/in/troy-brown-3542611: timeout: Timed out receiving message from renderer: -0.014
+  (Session info: chrome=141.0.7390.125)
+Error processing https://www.linkedin.com/in/troy-brown-3542611: timeout: Timed out receiving message from renderer: -0.014
+  (Session info: chrome=141.0.7390.125)
+Log file locked, logging to console only: Processing: https://www.linkedin.com/in/troy-brown-a58b23123
+Processing: https://www.linkedin.com/in/troy-brown-a58b23123
+Log file locked, logging to console only: Error processing https://www.linkedin.com/in/troy-brown-a58b23123: timeout: Timed out receiving message from renderer: -0.014
+  (Session info: chrome=141.0.7390.125)
+Error processing https://www.linkedin.com/in/troy-brown-a58b23123: timeout: Timed out receiving message from renderer: -0.014
+  (Session info: chrome=141.0.7390.125)
+Log file locked, logging to console only: Processing: https://www.linkedin.com/in/brian-whelan-1428186
+Processing: https://www.linkedin.com/in/brian-whelan-1428186
+Log file locked, logging to console only: Error processing https://www.linkedin.com/in/brian-whelan-1428186: timeout: Timed out receiving message from renderer: -0.012
+  (Session info: chrome=141.0.7390.125)
+Error processing https://www.linkedin.com/in/brian-whelan-1428186: timeout: Timed out receiving message from renderer: -0.012
+  (Session info: chrome=141.0.7390.125)
+Log file locked, logging to console only: Processing: https://www.linkedin.com/in/brian-whelan-2ab2193
+Processing: https://www.linkedin.com/in/brian-whelan-2ab2193
+Log file locked, logging to console only: Error processing https://www.linkedin.com/in/brian-whelan-2ab2193: timeout: Timed out receiving message from renderer: -0.006
+  (Session info: chrome=141.0.7390.125)
+Error processing https://www.linkedin.com/in/brian-whelan-2ab2193: timeout: Timed out receiving message from renderer: -0.006
+  (Session info: chrome=141.0.7390.125)
+Log file locked, logging to console only: Processing: https://www.linkedin.com/in/riyacao
+Processing: https://www.linkedin.com/in/riyacao
+Log file locked, logging to console only: Error processing https://www.linkedin.com/in/riyacao: tab crashed
+  (Session info: chrome=141.0.7390.125)
+Error processing https://www.linkedin.com/in/riyacao: tab crashed
+  (Session info: chrome=141.0.7390.125)
+Log file locked, logging to console only: Processing: https://www.linkedin.com/in/vishalca9
+Processing: https://www.linkedin.com/in/vishalca9
+Log file locked, logging to console only: Error processing https://www.linkedin.com/in/vishalca9: tab crashed
+  (Session info: chrome=141.0.7390.125)
+Error processing https://www.linkedin.com/in/vishalca9: tab crashed
+  (Session info: chrome=141.0.7390.125)
+Log file locked, logging to console only: Processing: https://www.linkedin.com/in/robschroder
+Processing: https://www.linkedin.com/in/robschroder
+Log file locked, logging to console only: Error processing https://www.linkedin.com/in/robschroder: tab crashed
+  (Session info: chrome=141.0.7390.125)
+Error processing https://www.linkedin.com/in/robschroder: tab crashed
+  (Session info: chrome=141.0.7390.125)
+Log file locked, logging to console only: Processing: https://www.linkedin.com/in/robert-schroder-8b74525
+Processing: https://www.linkedin.com/in/robert-schroder-8b74525
+Log file locked, logging to console only: Error processing https://www.linkedin.com/in/robert-schroder-8b74525: tab crashed
+  (Session info: chrome=141.0.7390.125)
+Error processing https://www.linkedin.com/in/robert-schroder-8b74525: tab crashed
+  (Session info: chrome=141.0.7390.125)
+Log file locked, logging to console only: Batch completed. Processed 0 connections. Next start line: 151
+Batch completed. Processed 0 connections. Next start line: 151
+^C
